@@ -1,0 +1,29 @@
+.form{
+    position: relative;
+    width: 40%;
+  margin: 50px auto 0;
+  background: white;
+  border-radius: 30px;
+  h2{
+      margin-bottom: 25px;
+  }
+}
+.form-inner input,
+.form-inner textarea {
+  display: block;
+  width: 100%;
+  padding: 0 20px;
+  margin-bottom: 10px;
+  background: #E9EFF6;
+  line-height: 40px;
+  border-width: 0;
+  border-radius: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+.form-inner input[type="submit"] {
+    margin-top: 30px;
+    background: #f69a73;
+    border-bottom: 4px solid #d87d56;
+    color: white;
+    font-size: 14px;
+  }

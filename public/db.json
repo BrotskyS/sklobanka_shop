@@ -1,0 +1,398 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://www.nl.ua/upload/resize_cache/iblock/217/330_330_1/50992086.jpg",
+      "name": "Банка для консервування 0.5 л СКО",
+      "sizes": 15,
+      "price": 4.5,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://dm2304files.storage.live.com/y4pwNQujOaC_c9L3hRyqEFdUmmvFJdX6bm4TCKrqyeSYzBZ6RydzfGxLZbACsgz6bpaU2S8qq7XKBbRNgA7bdf6to6-V9xhvg8hM2WTSiF4KuR5CZj3Q7z3Afz1NitpL-etR-sdnqwg7ah6vrV6gU7KfrwNoxv43qbWmtKgqUtSB2I6784AAhSzSD6WO2vcoc-o/dc9b-0.65%20%D1%81%D0%BA%D0%BE-0-2-500x500.jpg?psid=1&width=500&height=500&cropMode=center",
+      "name": "Банка для консервування 0.65 л СКО",
+      "sizes": 20,
+      "price": 7.5,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://www.nl.ua/upload/resize_cache/iblock/57b/330_330_1/50992087.jpg",
+      "name": "Банка для консервування 1 л СКО",
+      "sizes": 12,
+      "price": 7.5,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "http://www.oreht.ru/catalog_link/%D0%A0%D0%A1%D0%92/83773/118869/244864/291681.jpg",
+      "name": "Банка для консервування 1.5 л СКО",
+      "sizes": 8,
+      "price": 11,
+      "category": 0,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://st24.stpulscen.ru/images/product/098/438/347_big.jpg",
+      "name": "Банка для консервування 2 л СКОа",
+      "sizes": 8,
+      "price": 15,
+      "category": 0,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://www.nl.ua/upload/resize_cache/iblock/e4c/220_200_1/50992090.jpg",
+      "name": "Банка для консервування 3 л СКО",
+      "sizes": 6,
+      "price": 17,
+      "category": 0,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://www.nl.ua/upload/resize_cache/iblock/7cb/330_330_1/50992079.jpg",
+      "name": "Банка Твіст Офф 0.25 л",
+      "sizes": 12,
+      "price": 4.25,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://f.ua/statik/images/products/400/1293/033_775443154504.jpg",
+      "name": "Банка Твіст Офф 0.330 л",
+      "sizes": 12,
+      "price": 4.25,
+      "category": 1,
+      "rating": 10
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://www.nl.ua/upload/iblock/032/50992080.jpg",
+        "name": "Банка Твіст Офф 0.5 л",
+        "sizes": 15,
+        "price": 5,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://городокмастеров.рф/wa-data/public/shop/products/12/97/149712/images/435159/435159.970.jpg",
+        "name": "Банка Твіст Офф 0.55 амфора л",
+        "sizes": 12,
+        "price": 450,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 10,
+        "imageUrl": "https://dm2304files.storage.live.com/y4plELxQD_uW2sa0kUkgJsrqWhBw7JkT94YfLsQ7s17DQcEvZxzaVCfh4Xv1NvdacAI-k0jc7i-KL4bek9fXLN-Kd_IHO5V9FvzZdGIyjCisujbqyrOmWLq1fTv0fkaRn1ZRa4pfTL7-CfIJaG6e6HYCsPDBvMutc0wgK8Uv70UE5aMx2Zq-fkm7C5wpju6zRzg/0%2C720.jpg?psid=1&width=498&height=498&cropMode=center",
+        "name": "Банка Твіст Офф 0.720 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 11,
+        "imageUrl": "https://городокмастеров.рф/wa-data/public/shop/products/12/97/149712/images/435159/435159.970.jpg",
+        "name": "Банка Твіст Офф 0.72 амфора л",
+        "sizes": 12,
+        "price": 450,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 12,
+        "imageUrl": "https://dm2304files.storage.live.com/y4pFoQ6W9cMOGKj4Um_lruE_Z6sDur6thNZVFl2FZ7EBvbAZkpyY9DFQv48NVOwbLBO9VwSJMXgaWNRfBaSw5vg42RokrMT_P-hCDHQYe6IKmTnVXLaMJ0N2QqsZqsNteloEQ6yw8fdiJ65onKyy2KvafLr01mWy7aKKox8HBf5ADXv7OXCEgnASkBWf28cYK_pQzmYdBmXLlI9jIxtHmqvdOpkf1ws2X3L3evU6N7TbDk/1.jpg?psid=1&width=498&height=498&cropMode=center",
+        "name": "Банка Твіст Офф 1 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 13,
+        "imageUrl": "https://dm2304files.storage.live.com/y4p-mPWgua8TXPd4S6qTLV0X-sSoicpBqt6DQcIBn4rBpwofeBw4db1i0XcP1VZbodXn98AAVgI7B87hQ2FK_kotu7eEBaSDpXWFtfQw0Usd8KGHkPOp06WHrN5Ul-qP3qtD_8KT7wJEmu_aj0dlfuDrN5uIYactyuUwpvtBUN6SShAg0Z2uzqlfrsAwmXslUJLTSzaU3XQpWxwp2ccIw6ijc_OlyF_KgOS9x8DSb2z9H4/1%2C5.jpg?psid=1&width=370&height=370&cropMode=center",
+        "name": "Банка Твіст Офф 1.5л",
+        "sizes": 12,
+        "price": 450,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 14,
+        "imageUrl": "https://dm2304files.storage.live.com/y4pW2l13rzZMfbm7OD3tFcDHCLpRfNR0q8naml8QsGsgEXF5eEYgZrJV_KwtolUkkmHAyOV2lMj5sdOMNnwpYKAtsByc8Vgu_oc64uRbDQ46hpgud8gdBpCOBf28WNxBwgl61J1--Img619ArgCfjb3FieuF6kzuJm7sl4wrUGZty-EzXovXD56e5HnypgczmhjeybbbUnHxqpLcfM41MCAyfwSXSK2fhOODr0oeEjW41c/1%2C7.jpg?psid=1&width=370&height=370&cropMode=center",
+        "name": "Банка Твіст Офф 1.7 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 15,
+        "imageUrl": "https://dm2304files.storage.live.com/y4pqtaEemwBOG567FwkZvovNjTDCHF41opXPKHceEtAbysvboJ01dkNjQaddTcdzCIBL-Vw4Kk1AIa33LpMaJaFvcnq5LCzEalPhCJOIekNKx9KW7ZeXdDyBUpR77F-t7yTZk3s08C_2_6Rt7Fy6bUvv0tN3csrDj9oLI0BhF_PzFtKsIjYzlSdaz4BvVh71XK0rU0b-5XkVIRiDnGUVyCo4I6k_7R2-jv7OJ5Y9oavZMQ/1%2C7Z.jpg?psid=1&width=370&height=370&cropMode=center",
+        "name": "Банка Твіст Офф 1.7 AZ л",
+        "sizes": 12,
+        "price": 450,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 16,
+        "imageUrl": "https://dm2304files.storage.live.com/y4pmYONEtzg6BFw2Uebnw4leswbKyJUgOfeiclg_ObM6ycbLgJkr2re_Ud_QvGb500tPA5a6OrcZ7nOj6oY6Tv8WyF9V9iQwDDMnkyGPZNoM8HfZQKsqLAjlzPbk25SARcd0dW8KZddczDxKAh5jeW2X8Th8fVwlHlUmg7IwVVo9quYBCH5lTLjCj6BVConD5MUUubQtMTv1pO7ssZXcjR5IgMK9xwL53-5a9IVx1HLfGM/2.jpg?psid=1&width=498&height=498&cropMode=center",
+        "name": "Банка Твіст Офф 2 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 17,
+        "imageUrl": "https://dm2304files.storage.live.com/y4pnKConFyWOsXbhfpCTSEqBGF3zB6RzbvRt0NXdxFMQn4zlOnQ-haWrYrceIMCa5IGBl97RO607biE9ONL7DEKuGl7VZyK86SE71deCTDGRqVO_MkMn-7FwvzilGeb_lqXgqjpw5sOsO0QnX6oTY9kBlTzqaLAXuI2NDx8VFK_mmP4VpToDeRBdlasjddY-_GKe50--bO_fxJAmY3AfnUwfeGoO4A4DVOjhgCUGqXFOns/3.jpg?psid=1&width=370&height=370&cropMode=center",
+        "name": "Банка Твіст Офф 3 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 18,
+        "imageUrl": "http://www.techmos.ru/catalog-images/medium/25/umvqi8cifjw9sgo24744.jpg",
+        "name": "Банка Твіст Офф 5 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 19,
+        "imageUrl": "https://delo-vkusa.net/storage/4084/conversions/5b6b1d4c2e1b6721b8f68214ca64bb03-medium.jpg",
+        "name": "Банка з гідрозатвором, 5 літрів",
+        "sizes": 12,
+        "price": 450,
+        "category": 2,
+        "rating": 10
+      },
+      {
+        "id": 20,
+        "imageUrl": "https://delo-vkusa.net/storage/2868/conversions/3efac26671d6680d5caf97ff18777788-medium.jpg",
+        "name": "Банка з гідрозатвором, 9 літрів",
+        "sizes": 12,
+        "price": 450,
+        "category": 2,
+        "rating": 10
+      },
+      {
+        "id": 21,
+        "imageUrl": "https://delo-vkusa.net/storage/2866/conversions/3460d4d8c0110d1a9abfce9be7ec5dcf-medium.jpg",
+        "name": "Банка з гідрозатвором, 18 літрів",
+        "sizes": 12,
+        "price": 450,
+        "category": 2,
+        "rating": 10
+      },
+      {
+        "id": 22,
+        "imageUrl": "https://delo-vkusa.net/storage/4514/conversions/e164ae5e8bd47a2170c335d966e68496-medium.jpg",
+        "name": "Банка з гідрозатвором, 25 літрів",
+        "sizes": 12,
+        "price": 450,
+        "category": 2,
+        "rating": 10
+      },
+      {
+        "id":23,
+        "imageUrl": "https://delo-vkusa.net/storage/4641/conversions/aaf7e3bf1266c8fee9994ee6d57f2b6c-medium.jpg",
+        "name": "Банка з гідрозатвором і краном, 5 літрів",
+        "sizes": 12,
+        "price": 450,
+        "category": 2,
+        "rating": 10
+      },
+      {
+        "id": 24,
+        "imageUrl": "https://delo-vkusa.net/storage/4640/conversions/aaf7e3bf1266c8fee9994ee6d57f2b6c-medium.jpg",
+        "name": "Банка з гідрозатвором і краном, 9 літрів",
+        "sizes": 12,
+        "price": 450,
+        "category": 2,
+        "rating": 10
+      },
+      {
+        "id": 25,
+        "imageUrl": "https://delo-vkusa.net/storage/4639/conversions/7db49ef824b64088ce802fb31a5ede18-medium.jpg",
+        "name": "Банка з гідрозатвором і краном, 18 літрів",
+        "sizes": 12,
+        "price": 450,
+        "category": 2,
+        "rating": 10
+      },
+      {
+        "id": 26,
+        "imageUrl": "https://delo-vkusa.net/storage/4642/conversions/28cbd67726d4650b455416b9bd085b88-medium.jpg",
+        "name": "Банка з гідрозатвором і краном, 25 літрів",
+        "sizes": 12,
+        "price": 450,
+        "category": 2,
+        "rating": 10
+      },
+      {
+        "id": 27,
+        "imageUrl": "https://dm2304files.storage.live.com/y4p5_YjLV-KqNl1ZEHVfHQBUcvsdkoyVIvomoQiJiEDgvp2xy9iU5H03nxiS0jLBGbFPHuchGIhcrFz0r_q3Us3VXbTtilAEuWyfyXjc-SX_9GXR2u1K63l6VR_5fvDJ9bgfIK1F9DddnNYaGYVx6Sa2Dk41t3X2ArTynL0fS0oEiBTCmMZtc5c-GlhIqqtnhWz5MjHL65umsQL7FauA2hJ6aDt7n6s0YYNAj_VFwhN23U/n3.jpg?psid=1&width=600&height=591",
+        "name": "Закаточная кришка ТМ «Для будинку, Для родини!»",
+        "sizes": 12,
+        "price": 450,
+        "category": 3,
+        "rating": 10
+      },
+      {
+        "id": 28,
+        "imageUrl": "https://ta-da.ua/image/cache/catalog/products/1000035_00000068663-500x500.png",
+        "name": "Закаточная кришка Щедрий пан",
+        "sizes": 12,
+        "price": 450,
+        "category": 3,
+        "rating": 10
+      },
+      {
+        "id": 29,
+        "imageUrl": "https://dm2304files.storage.live.com/y4pnj9rD1i6DQGckqjQ3ajdTMohaLxxnBoF5ZCIODsvJj586Re7eJ59skDO9ZwssBOBvZL5Zz5lVtnXn0gaq8LUecXoFjlzX7ArhRM8W-pVo0ma9rzoqV_dcc6dglAg4U0N6kiGRvNDMLCVZ_3yqR4As7ulWR6hXoeNO0IlE_Jq3eBKLGDlxsRhc4MzBZsmWXntkzUXHo_gA6GkJCveBQC_8zowql9U-_-Ty5SArd9Dhb4/of2.jpg?psid=1&width=382&height=364",
+        "name": "Кришка Твіст 0фф, діаметр 82мм",
+        "sizes": 12,
+        "price": 450,
+        "category": 3,
+        "rating": 10
+      },
+      {
+        "id": 30,
+        "imageUrl": "https://dm2304files.storage.live.com/y4pnj9rD1i6DQGckqjQ3ajdTMohaLxxnBoF5ZCIODsvJj586Re7eJ59skDO9ZwssBOBvZL5Zz5lVtnXn0gaq8LUecXoFjlzX7ArhRM8W-pVo0ma9rzoqV_dcc6dglAg4U0N6kiGRvNDMLCVZ_3yqR4As7ulWR6hXoeNO0IlE_Jq3eBKLGDlxsRhc4MzBZsmWXntkzUXHo_gA6GkJCveBQC_8zowql9U-_-Ty5SArd9Dhb4/of2.jpg?psid=1&width=382&height=364",
+        "name": "Кришка Твіст 0фф, діаметр 66мм",
+        "sizes": 12,
+        "price": 450,
+        "category": 3,
+        "rating": 10
+      },
+      {
+        "id": 31,
+        "imageUrl": "https://dm2304files.storage.live.com/y4pnj9rD1i6DQGckqjQ3ajdTMohaLxxnBoF5ZCIODsvJj586Re7eJ59skDO9ZwssBOBvZL5Zz5lVtnXn0gaq8LUecXoFjlzX7ArhRM8W-pVo0ma9rzoqV_dcc6dglAg4U0N6kiGRvNDMLCVZ_3yqR4As7ulWR6hXoeNO0IlE_Jq3eBKLGDlxsRhc4MzBZsmWXntkzUXHo_gA6GkJCveBQC_8zowql9U-_-Ty5SArd9Dhb4/of2.jpg?psid=1&width=382&height=364",
+        "name": "Кришка Твіст 0фф, діаметр 63мм",
+        "sizes": 12,
+        "price": 450,
+        "category": 3,
+        "rating": 10
+      },
+      {
+        "id": 32,
+        "imageUrl": "https://in-green.com.ua/image/cache/alias/lemira/bochka-lemira-10-l/bochka-lemira-10-l-1200x1200.jpg",
+        "name": "Бочка Леміра 10 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 4,
+        "rating": 10
+      },
+      {
+        "id":33,
+        "imageUrl": "https://in-green.com.ua/image/cache/alias/lemira/bochka-lemira-20-l/bochka-lemira-20-l-1200x1200.jpg",
+        "name": "Бочка Леміра 20 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 4,
+        "rating": 10
+      },{
+        "id": 34,
+        "imageUrl": "https://dm2304files.storage.live.com/y4pHq0gyZuWVAxLrgM9pSo-1nEhRYJs_lfNn_DQIB3z76FFzlf55Df3Wn0p9IgbBFjBIUN6qaLz-Ts4UDZxEpZ4LSAyIqqBU_4JjhQ2wPrdPISIJhpQCUO12OqGW2z5CnRCX8zWRLcy6vSeqB7YYiQ3jqB675pGm_2i8sn851bTbGH8Tt8p8sVKwrKrtDD7xIvYfMu5BGDWdIKD-JKrHZqmO3LwZ1IM9JwufxF0qkQg3xU/lemira_46496_images_425467542.jpg?psid=1&width=483&height=500",
+        "name": "Бочка Леміра 30 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 4,
+        "rating": 10
+      },{
+        "id": 35,
+        "imageUrl": "https://in-green.com.ua/image/cache/alias/lemira/bochka-lemira-50-l/bochka-lemira-50-l-1200x1200.jpg",
+        "name": "Бочка Леміра 40 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 4,
+        "rating": 10
+      },{
+        "id": 36,
+        "imageUrl": "https://in-green.com.ua/image/cache/alias/lemira/bochka-lemira-50-l/bochka-lemira-50-l-1200x1200.jpg",
+        "name": "Бочка Леміра 50 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 4,
+        "rating": 10
+      },{
+        "id": 37,
+        "imageUrl": "https://in-green.com.ua/image/cache/alias/lemira/bochka-lemira-60-l/bochka-lemira-60-l-1200x1200.jpg",
+        "name": "Бочка Леміра 60 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 4,
+        "rating": 10
+      },{
+        "id": 38,
+        "imageUrl": "https://www.baltiaoil.lv/userfiles/gallery/f32db11d9b7e47646354ac61683ea092.jpg",
+        "name": "Бочка 120 л",
+        "sizes": 12,
+        "price": 450,
+        "category": 4,
+        "rating": 10
+      },{
+        "id": 39,
+        "imageUrl": "https://i2.rozetka.ua/goods/12970846/83625000_images_12970846818.jpg",
+        "name": "Закаточний ключ, повний автомат,'Черкаси' ",
+        "sizes": 12,
+        "price": 450,
+        "category":5,
+        "rating": 10
+      },{
+        "id": 40,
+        "imageUrl": "https://kredmash.com/uploads/images/zakatochnij-klyuch-kredmash.jpg",
+        "name": " Кредмаш Машинка закаточна напівавтоматична",
+        "sizes": 12,
+        "price": 450,
+        "category": 5,
+        "rating": 10
+      },{
+        "id": 41,
+        "imageUrl": "https://www.leroymerlin.ua/m/img?href=/business/v2/images/9999PRO11203122FRA1_Media_Image",
+        "name": "Мішок поліпропіленовий білий",
+        "sizes": 12,
+        "price": 450,
+        "category": 7,
+        "rating": 10
+      },{
+        "id": 42,
+        "imageUrl": "https://www.zip.ua/wp-content/uploads/2016/09/meshek_zel.jpg",
+        "name": "Мішок поліпропіленовий зелений",
+        "sizes": 12,
+        "price": 450,
+        "category": 7,
+        "rating": 10
+      },{
+        "id": 43,
+        "imageUrl": "https://stozhary.net.ua/images/goods/full/0219/0219567.jpg",
+        "name": "Мішок поліпропіленовий білий з цукру",
+        "sizes": 12,
+        "price": 450,
+        "category": 7,
+        "rating": 10
+      },{
+        "id":44,
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/htpprtjklggg1-UA/image;s=1000x700",
+        "name": "Туалетний папір Кохавинка",
+        "sizes": 12,
+        "price": 450,
+        "category": 8,
+        "rating": 10
+      }
+  ]
+}
