@@ -3,6 +3,7 @@
 .header {
   border-bottom: 1px solid $gray-line;
   padding: 40px 0;
+  margin-bottom: -40px;
     
 
 
@@ -21,7 +22,7 @@
     }
   }
   &__top{
-      margin-bottom: 20px;
+      margin-bottom: 40px;
       .phone{
           text-align: center;
         

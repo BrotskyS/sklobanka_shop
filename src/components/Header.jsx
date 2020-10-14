@@ -13,6 +13,7 @@ function Header() {
       <div className="container">
           <div className="header__top">
               <div className="phone">
+                  <h3>+380676744189</h3>
                   <h3>+380673500172</h3>
               </div>
               <a href="https://goo.gl/maps/uTGuD4oUn1uTyHdz6">

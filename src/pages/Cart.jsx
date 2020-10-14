@@ -143,7 +143,7 @@ function Cart() {
                 Всього: <b>{totalCount} шт.</b>
               </span>
               <span>
-                Сума заказа: <b>{totalPrice} ₽</b>
+                Сума заказа: <b>{totalPrice} ₴</b>
               </span>
             </div>
 

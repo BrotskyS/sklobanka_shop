@@ -1,17 +1,17 @@
-@import 'fonts';
-@import 'variables';
-@import 'libs/normalize';
+@import "fonts";
+@import "variables";
+@import "libs/normalize";
 
-@import 'components/all';
+@import "components/all";
 
 body {
   background-color: $background;
   padding: 50px 0;
   @media (max-width: 768px) {
-    padding:  0;
+    padding: 0;
   }
   @media (max-width: 568px) {
-    padding:  0;
+    padding: 0;
     background-color: #fff;
   }
 }
@@ -22,7 +22,7 @@ body {
   background-color: #fff;
   margin: 0 auto;
   border-radius: 10px;
-//   max-width: 1400px;
+  //   max-width: 1400px;
   @media (max-width: 648px) {
     width: 150%;
   }
@@ -48,11 +48,11 @@ body {
       grid-template-columns: 1fr 1fr 1fr;
     }
     @media (max-width: 1040px) {
-        grid-template-columns: 1fr 1fr;
-      }
+      grid-template-columns: 1fr 1fr;
+    }
 
     @media (max-width: 628px) {
-      grid-template-columns: 1fr 1fr  ;
+      grid-template-columns: 1fr 1fr;
     }
   }
 
@@ -353,6 +353,7 @@ body {
     }
 
     &-buttons {
+        width: 100%;
       display: flex;
       justify-content: space-between;
       margin-top: 40px;

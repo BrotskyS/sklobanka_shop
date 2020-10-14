@@ -32,7 +32,7 @@ function PizzaBlock({
       <div className="pizza-block__selector">
         <ul>
           <li className="active">
-            Ціна за одну банку:{" "}
+            Ціна за одну штуку:{" "}
             <h2 style={{ color: "#fe5f1e" }}>{price} грн</h2>
           </li>
         </ul>
