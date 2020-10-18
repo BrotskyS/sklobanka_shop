@@ -23,8 +23,8 @@ body {
   margin: 0 auto;
   border-radius: 10px;
   //   max-width: 1400px;
-  @media (max-width: 648px) {
-    width: 150%;
+  @media (max-width: 800px) {
+    width: 100vW;
   }
 }
 

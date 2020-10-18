@@ -37,7 +37,12 @@ function PizzaBlock({
           </li>
         </ul>
         <ul>
-          <li className="disable">Штук в упаковці: {sizes}</li>
+            {sizes !== 0 ? (
+                <li className="disable">Штук в упаковці: {sizes}</li>
+            ):
+                <li className="disable">Немає в навності</li>
+            }
+          
         </ul>
       </div>
       <div className="pizza-block__bottom">
