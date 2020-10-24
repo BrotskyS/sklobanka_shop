@@ -13,7 +13,7 @@ export const fetchPizzas = (sortBy, category) => (dispatch) => {
 
   axios
     .get(
-      `/pizzas?${category !== null ? `category=${category}` : ''}&_sort=${sortBy.type}&_order=${
+      `http://31.131.18.209:3001/pizzas?${category !== null ? `category=${category}` : ''}&_sort=${sortBy.type}&_order=${
         sortBy.order
       }`,
     )
